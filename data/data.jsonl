@@ -1,0 +1,2 @@
+{ "query":"What is the capital of Japan?", "context":"Japan is in Asia", "response":"Tokyo is the capital of Japan.", "ground_truth": "Tokyo" }
+{ "query":"What is the capital of France?", "context":"France is in Europe", "response":"Paris is the capital of France.", "ground_truth": "Paris" }

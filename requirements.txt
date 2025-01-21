@@ -1,0 +1,7 @@
+azure-ai-evaluation
+promptflow-azure
+azure-identity
+wikipedia
+python-dotenv
+azure-ai-projects
+azure-ai-ml
