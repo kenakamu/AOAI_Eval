@@ -1,11 +1,11 @@
 ## Azure Open AI evaluation
 
-From AOAI account -> Foundary -> Azure OpenAI Service Evaluation
+From AOAI account -> Foundry -> Azure OpenAI Service Evaluation
 
-We can use this feature to evaluate the model output in variuos ways.
+We can use this feature to evaluate the model output in various ways.
 
 - Manually crafted input and output
-- We can generat output from model real-time, or upload generated results in advance
+- We can generate output from model real-time, or upload generated results in advance
 - Handful of out-of-box evaluations
 - We can fine-tune the model from passed results
 
