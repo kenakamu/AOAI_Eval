@@ -1,14 +1,23 @@
 ## Simulator
 
+The simulator acts as a user and dynamically generate user inputs which will be used as test datasets.
+
 To create evaluation test dataset.
 https://learn.microsoft.com/azure/ai-studio/how-to/develop/simulator-interaction-data
 [sample code](./simulate_data.py)
 
 ## Manual Evaluation
-https://learn.microsoft.com/azure/ai-studio/how-to/evaluate-prompts-playground
-https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-generative-ai-app
 
-There are a set of pre-defined categories.
+You will evaluate the AI generated answers by either thumb 👍 or 👎.
+
+https://learn.microsoft.com/azure/ai-studio/how-to/evaluate-prompts-playground?source=recommendations
+
+## Auto Evaluation 
+Concept
+
+https://learn.microsoft.com/azure/ai-studio/how-to/evaluate-generative-ai-app
+
+There are a set of pre-defined categories and corresponding evaluators.
 
 |AI quality (AI assisted)|	AI quality (NLP)|	Risk and safety metrics|
 |---|---|---|
@@ -25,7 +34,7 @@ Select a model and click benchmark, then you can use your own data to evaluate t
 You can also start evaluation from prompt flow.
 
 ## See the result
-https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-results
+https://learn.microsoft.com/azure/ai-studio/how-to/evaluate-results
 
 ## Evaluation SDK
 
